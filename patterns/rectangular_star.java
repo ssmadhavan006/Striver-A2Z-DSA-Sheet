@@ -15,5 +15,6 @@ class rectangular_star {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         obj.pattern1(n);
+        in.close();
     }
 }
