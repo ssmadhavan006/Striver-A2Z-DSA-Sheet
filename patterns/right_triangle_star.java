@@ -1,3 +1,4 @@
+//right triangle star pattern
 package patterns;
 import java.util.Scanner;
 
