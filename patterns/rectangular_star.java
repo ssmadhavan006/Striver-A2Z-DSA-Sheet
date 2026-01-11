@@ -1,6 +1,5 @@
-// pattern to print rectangular star pattern
 package patterns;
-
+import java.util.Scanner;
 class rectangular_star {
     void pattern1(int n) {
         for(int i=0; i<n;i++){
@@ -12,6 +11,8 @@ class rectangular_star {
     }
     public static void main(String[] args){
         rectangular_star obj = new rectangular_star();
-        obj.pattern1(5);
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        obj.pattern1(n);
     }
 }
