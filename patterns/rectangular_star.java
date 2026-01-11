@@ -1,3 +1,4 @@
+//Rectangular Star Pattern
 package patterns;
 import java.util.Scanner;
 class rectangular_star {
