@@ -1,3 +1,4 @@
+// pattern to print rectangular star pattern
 package patterns;
 
 class rectangular_star {
