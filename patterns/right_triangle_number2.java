@@ -1,3 +1,4 @@
+//Right Triangle Number Pattern 2
 package patterns;
 import java.util.Scanner;
 
