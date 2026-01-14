@@ -1,5 +1,5 @@
+//Alphabet Ramp Pattern
 package patterns;
-
 public class alpha_ramp {
         public void pattern16(int n) {
         for(int i=0;i<n;i++){

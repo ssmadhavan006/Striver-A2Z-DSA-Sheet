@@ -1,5 +1,5 @@
+//Symmetric Void Pattern
 package patterns;
-
 public class symmetric_void {
         public void pattern19(int N) {
         // Initial spaces for upper half

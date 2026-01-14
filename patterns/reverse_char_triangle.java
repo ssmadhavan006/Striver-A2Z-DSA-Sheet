@@ -1,5 +1,5 @@
+//Reverse Character Triangle Pattern
 package patterns;
-
 public class reverse_char_triangle {
         public void pattern15(int n) {
         for(int i=0;i<n;i++){

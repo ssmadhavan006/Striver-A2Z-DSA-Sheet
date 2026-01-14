@@ -1,5 +1,5 @@
+//Alphabet Triangle Pattern
 package patterns;
-
 public class alpha_triangle {
         public void pattern18(int N) {
         // Loop for each row
