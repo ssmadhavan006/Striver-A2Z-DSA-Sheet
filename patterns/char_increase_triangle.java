@@ -1,3 +1,4 @@
+//Character Increasing Triangle Pattern
 package patterns;
 import java.util.Scanner;
 public class char_increase_triangle {
