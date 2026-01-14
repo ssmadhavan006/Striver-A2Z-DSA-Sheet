@@ -1,3 +1,4 @@
+//Increasing Number Triangle Pattern
 package patterns;
 import java.util.Scanner;
 public class increase_number_triangle {
