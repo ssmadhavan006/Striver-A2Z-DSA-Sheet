@@ -1,7 +1,7 @@
 package basic_maths;
 
-public class check_palindrom {
-    public boolean isPalindrom(int n) {
+public class check_palindrome {
+    public boolean isPalindrome(int n) {
         int initial = n;
         int reverse = 0;
         while(n>0){
@@ -14,8 +14,8 @@ public class check_palindrom {
     public static void main(String[] args) {
         java.util.Scanner in = new java.util.Scanner(System.in);
         int n = in.nextInt();
-        check_palindrom cp = new check_palindrom();
-        System.out.println(cp.isPalindrom(n));
+        check_palindrome cp = new check_palindrome();
+        System.out.println(cp.isPalindrome(n));
         in.close();
     }
 }
