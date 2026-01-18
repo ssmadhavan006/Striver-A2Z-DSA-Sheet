@@ -1,5 +1,4 @@
 package basic_maths;
-
 public class check_prime {
     public static boolean isPrime(int n) {
         // code here
